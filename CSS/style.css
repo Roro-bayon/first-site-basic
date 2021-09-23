@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.cloud-top{
+  margin-left: 45%;
+}
+
+.my-name{
+  font-family:'Pacifico', cursive;
+  font-size: 70px;
+  margin: 0;
+  color:#3FC1C9;
+}
+
+.i-am{
+padding: 0;
+margin: 0;
+font-family: 'Lato', sans-serif;
+font-size: 20px;
+color: white;
+}
+
+.cloud-bottom{
+  margin-right:65%;
+  margin-top: 20px;
+}
+.mountain{
+  margin:0 auto;
+
+}
+.container-head{
+background-color: #364F6B;
+text-align: center;
+padding-top: 30px;
+width: 100%;
+}
+
+.hello-box{
+  text-align: center;
+  padding: 50px 50px 0 50px;
+  background-color: #F5F5F5;
+  margin: 0;
+}
+
+
+.selfie{
+  border-radius: 50%;
+  width: 190px;
+}
+
+h2{
+  color:#3FC1C9;
+  font-family:'Pacifico', cursive;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-color: #F5CEBE;
+  height: 0;
+  border-width: 8px;
+  width: 70%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.skills-box{
+  text-align: center;
+  padding: 20px 50px 50px 50px;
+  background-color: #F5F5F5;
+  margin: 0;
+
+}
+
+.snow-b{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 45%;
+  text-align: left;
+  position: relative;
+  float:left;
+}
+.snow-img{
+  border-radius: 50%;
+  width: 150px;
+  float:left;
+  margin-right: 30px;
+}
+.snow-p{
+  line-height: 1.5;
+}
+
+h3{
+  color: #A3D2CA;
+  margin-bottom: 5px;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.code-b{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 45%;
+  text-align: left;
+  position: relative;
+  float:right;
+}
+.code-img{
+  border-radius: 50%;
+  width: 150px;
+  float:left;
+  margin-right: 30px;
+}
+.code-p{
+  line-height: 1.5;
+}
+
+.get-box{
+  clear: both;
+  position: relative;
+  padding: 10px;
+  background-color: #F5F5F5;
+
+}
+
+.footer-box{
+  text-align: center;
+  background-color: #DA7F8F;
+  color:white;
+  margin: 0;
+  padding: 5px;
+}
